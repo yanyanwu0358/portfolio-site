@@ -1,4 +1,4 @@
-body{
+body {
   font-family: 'Lato', sans-serif;
   color: black;
   font-weight: 300;
@@ -8,21 +8,21 @@ hr {
 	background-color: #7d97ad; height: 2px; border: 0;
 }
 
-.text-muted{
+.text-muted {
 	color: #7d97ad;
 }
 
-.text-thin{
+.text-thin {
 	font-weight: 100;
 }
 
-.title-super{
+.title-super {
 	font-size: 60px;
 }
 
-.title-logo{
+.title-logo {
 	margin-top: 30px;
 }
-.text-dark{
+.text-dark {
 	color: #2d3c49;
 }
